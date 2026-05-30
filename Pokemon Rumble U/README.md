@@ -38,9 +38,9 @@ Deoxys (Normal Forme)
 Darkrai
 <br>
 Shaymin (Land Forme)
-<br>
-Shiny figures
-<br>
+
+# Shiny figures
+
 Pikachu (Shiny)
 <br>
 Eevee (Shiny)
